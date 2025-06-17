@@ -7,13 +7,13 @@ Cada parte del proyecto se encuentra organizada en su propio directorio:
 
 ### 🔐 `cerradura/`
 Contiene:
-- Muestras capturadas del sistema de cerradura inalámbrica en formato `.complex16s` y `.txt`.
+- El directorio `muestras/` con las capturas de señales del sistema de cerradura inalámbrica en formato `.complex16s` y `.txt`.
 - Scripts desarrollados para el procesamiento y análisis de las muestras.
 
 ### 💳 `tarjeta/`
 Contiene:
 - Un script en Python diseñado para generar tablas de comparación (_diffing_) en formato LaTeX.
-- Una subcarpeta `muestras/` que incluye las capturas de varias tarjetas analizadas, **excepto la tarjeta personalizada**, que ha sido omitida por motivos de privacidad.
+- El directorio `muestras/` que incluye las capturas de varias tarjetas analizadas, **excepto la tarjeta personalizada**, que ha sido omitida por motivos de privacidad.
 
 ---
 
